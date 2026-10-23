@@ -1,0 +1,10 @@
+# Never commit real data, secrets or local Power BI state
+*.pbix
+*.pbit
+.env
+*.pfx
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/cache.abf
+# Working copies of real projects live elsewhere
+/workspace/

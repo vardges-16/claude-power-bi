@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powerbi-authoring-local": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@microsoft/powerbi-modeling-mcp@latest", "--start"]
+    }
+  }
+}
